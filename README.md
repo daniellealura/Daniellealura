@@ -1,6 +1,5 @@
 ## Hi there 👋
-![](https://www.motionelements.com/pt/stock-image-32481275-a-computer-generated-video-featuring-a-wave-in-shades-of-blue-and-pink-nanoscale-magnetic-phenomena)
-<!--
+apenas uma estudante do Alura
 **daniellealura/Daniellealura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
